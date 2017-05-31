@@ -1,3 +1,5 @@
+"use strict"
+
 const Jasmine = require('jasmine');
 const jasmine = new Jasmine();
 
